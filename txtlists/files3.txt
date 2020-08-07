@@ -1,0 +1,3 @@
+/Users/sharutgupta/Dropbox/COL780/Ass2/Final/code/2017CS50408_2017MT60250/Outputs/3rd.png
+./Images/3/8.jpg
+./Images/3/1.jpg
